@@ -1,0 +1,10 @@
+This program is supposed to provide quick comparison stats for ipl players. (Should be useful for building fantasy teams).
+
+This project aims parses Stats of International Cricket players from iplt20.com, stores them in a mongodb database, and then queries the database based on user input. At the momemnt there is a very simple(almost non-existent) GUI, which I need to work on as and when I get time.
+
+To run as is right now follow these steps:
+1.  playerData.py : This should download player data in json format to a folder in the current working directory.
+2.  parseFile.py: This will parse the above files and store the data in mongodb.
+3.  findPlayer.py : This is the main user program, with the UI and everything.
+
+This is still a work in progress...
