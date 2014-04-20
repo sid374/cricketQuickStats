@@ -1,0 +1,1 @@
+{"player":{"id":1522,"fullName":"Cameron Valente","rightHandedBat":true,"dateOfBirth":"1994/09/06","nationality":"Australian"}}

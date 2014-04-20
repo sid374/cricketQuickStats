@@ -1,0 +1,1 @@
+{"player":{"id":1484,"fullName":"Vishwa Fernando","rightHandedBat":true,"dateOfBirth":"1991/09/18","nationality":"Sri Lankan"}}

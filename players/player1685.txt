@@ -1,0 +1,1 @@
+{"player":{"id":1685,"fullName":"Rohit Singh","rightHandedBat":true,"dateOfBirth":"1993/10/22","nationality":"Emirati"}}

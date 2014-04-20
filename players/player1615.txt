@@ -1,0 +1,1 @@
+{"player":{"id":1615,"fullName":"Jack Hunter","rightHandedBat":true,"dateOfBirth":"1995/04/28","nationality":"New Zealander"}}

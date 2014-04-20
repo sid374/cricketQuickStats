@@ -1,0 +1,1 @@
+{"player":{"id":1654,"fullName":"Stuart Whittingham","rightHandedBat":true,"dateOfBirth":"1994/02/20","nationality":"Scottish"}}

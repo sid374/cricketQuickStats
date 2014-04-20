@@ -1,0 +1,1 @@
+{"player":{"id":1109,"fullName":"Arisht Singhvi","rightHandedBat":true,"dateOfBirth":"2013/03/06","nationality":"Indian"}}

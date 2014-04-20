@@ -1,0 +1,1 @@
+{"player":{"id":1742,"fullName":"Milind Kumar","rightHandedBat":true,"dateOfBirth":"1991/02/15","nationality":"Indian"}}

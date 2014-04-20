@@ -1,0 +1,1 @@
+{"player":{"id":895,"fullName":"Kamran Younis","rightHandedBat":true,"dateOfBirth":"1985/01/20","nationality":"Pakistani"}}

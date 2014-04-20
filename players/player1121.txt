@@ -1,0 +1,1 @@
+{"player":{"id":1121,"fullName":"Kumar Boresa","rightHandedBat":true,"dateOfBirth":"1995/08/29","nationality":"Indian"}}

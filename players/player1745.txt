@@ -1,0 +1,1 @@
+{"player":{"id":1745,"fullName":"Shardul Thakur","rightHandedBat":true,"dateOfBirth":"1991/10/16","nationality":"Indian"}}

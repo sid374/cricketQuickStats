@@ -1,0 +1,1 @@
+{"player":{"id":1139,"fullName":"Mark Gillespie","rightHandedBat":true,"dateOfBirth":"1979/10/17","nationality":"New Zealander"}}

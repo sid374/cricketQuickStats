@@ -1,0 +1,1 @@
+{"player":{"id":1034,"fullName":"Jigar Shah","rightHandedBat":true,"nationality":"Indian"}}

@@ -1,0 +1,1 @@
+{"player":{"id":1029,"fullName":"Ruchit Mishra","rightHandedBat":true,"nationality":"Indian"}}

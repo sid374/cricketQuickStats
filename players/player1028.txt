@@ -1,0 +1,1 @@
+{"player":{"id":1028,"fullName":"Sushant Kadam","rightHandedBat":true,"nationality":"Indian"}}

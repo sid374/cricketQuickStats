@@ -1,0 +1,1 @@
+{"player":{"id":1025,"fullName":"Aditya Ahuja","rightHandedBat":true,"nationality":"Indian"}}

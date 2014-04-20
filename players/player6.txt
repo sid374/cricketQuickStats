@@ -1,0 +1,1 @@
+{"player":{"id":6,"fullName":"Kuthethur Vasudevadas","dateOfBirth":"1985/01/26","nationality":"Indian"}}

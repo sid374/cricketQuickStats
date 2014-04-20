@@ -1,0 +1,1 @@
+{"player":{"id":1748,"fullName":"Shreyas Gopal","rightHandedBat":true,"dateOfBirth":"1993/09/04","nationality":"Indian"}}

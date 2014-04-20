@@ -1,0 +1,1 @@
+{"player":{"id":1566,"fullName":"Atit Sheth","rightHandedBat":true,"dateOfBirth":"1996/02/03","nationality":"Indian"}}

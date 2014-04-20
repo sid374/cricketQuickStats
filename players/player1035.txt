@@ -1,0 +1,1 @@
+{"player":{"id":1035,"fullName":"Umang Sheth","rightHandedBat":true,"nationality":"Indian"}}

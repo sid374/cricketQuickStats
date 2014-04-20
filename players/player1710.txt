@@ -1,0 +1,1 @@
+{"player":{"id":1710,"fullName":"Marquino Mindley","rightHandedBat":true,"dateOfBirth":"1994/12/29","nationality":"West Indian"}}

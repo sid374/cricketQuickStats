@@ -1,0 +1,1 @@
+{"player":{"id":1674,"fullName":"Kavindu Kulasekara","rightHandedBat":true,"dateOfBirth":"1995/08/20","nationality":"Sri Lankan"}}

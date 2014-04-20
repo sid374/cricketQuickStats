@@ -1,0 +1,1 @@
+{"player":{"id":1264,"fullName":"Imtiaz Ahmed","rightHandedBat":true,"dateOfBirth":"1985/11/10","nationality":"Indian"}}

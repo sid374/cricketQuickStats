@@ -1,0 +1,1 @@
+{"player":{"id":1079,"fullName":"Faisal Iqbal","rightHandedBat":true,"dateOfBirth":"1981/12/30","nationality":"Pakistani"}}

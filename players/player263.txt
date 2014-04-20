@@ -1,0 +1,1 @@
+{"player":{"id":263,"fullName":"Sujit Nayak","rightHandedBat":true,"dateOfBirth":"1989/06/23","nationality":"Indian"}}

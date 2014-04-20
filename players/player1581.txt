@@ -1,0 +1,1 @@
+{"player":{"id":1581,"fullName":"Muhammad Umair","dateOfBirth":"1994/10/31","nationality":"Pakistani"}}

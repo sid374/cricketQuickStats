@@ -1,0 +1,1 @@
+{"player":{"id":1263,"fullName":"Alex Kemp","rightHandedBat":true,"dateOfBirth":"1988/12/02","nationality":"Australian"}}

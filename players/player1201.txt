@@ -1,0 +1,1 @@
+{"player":{"id":1201,"fullName":"Mohammad Rizwan","rightHandedBat":true,"dateOfBirth":"1992/06/01","nationality":"Pakistani"}}

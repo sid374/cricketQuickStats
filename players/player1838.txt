@@ -1,0 +1,1 @@
+{"player":{"id":1838,"fullName":"Georgia Guy","rightHandedBat":true,"dateOfBirth":"1993/11/26","nationality":"New Zealander"}}

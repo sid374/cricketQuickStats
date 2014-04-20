@@ -1,0 +1,1 @@
+{"player":{"id":1037,"fullName":"Virendra Yadav","rightHandedBat":true,"nationality":"Indian"}}

@@ -1,0 +1,1 @@
+{"player":{"id":1082,"fullName":"Taufeeq Umar","dateOfBirth":"1981/06/20","nationality":"Pakistani"}}

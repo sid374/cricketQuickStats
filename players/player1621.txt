@@ -1,0 +1,1 @@
+{"player":{"id":1621,"fullName":"Kurtley Watson","rightHandedBat":true,"dateOfBirth":"1994/12/07","nationality":"New Zealander"}}

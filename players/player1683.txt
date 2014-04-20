@@ -1,0 +1,1 @@
+{"player":{"id":1683,"fullName":"Hashan Vimarshana","rightHandedBat":true,"dateOfBirth":"1994/11/28","nationality":"Sri Lankan"}}

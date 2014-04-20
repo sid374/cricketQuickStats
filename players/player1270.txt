@@ -1,0 +1,1 @@
+{"player":{"id":1270,"fullName":"Hasan Mahmood","rightHandedBat":true,"dateOfBirth":"1991/01/01","nationality":"Pakistani"}}

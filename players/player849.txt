@@ -1,0 +1,1 @@
+{"player":{"id":849,"fullName":"Muhammad Ayub","rightHandedBat":true,"dateOfBirth":"1979/09/13","nationality":"Pakistani"}}

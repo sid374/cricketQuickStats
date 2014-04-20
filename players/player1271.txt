@@ -1,0 +1,1 @@
+{"player":{"id":1271,"fullName":"Jahandad Khan","rightHandedBat":true,"dateOfBirth":"1983/04/04","nationality":"Pakistani"}}

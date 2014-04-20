@@ -1,0 +1,1 @@
+{"player":{"id":922,"fullName":"Timm van der Gugten","rightHandedBat":true,"dateOfBirth":"1991/02/02","nationality":"Australian"}}

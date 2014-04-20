@@ -1,0 +1,1 @@
+{"player":{"id":1272,"fullName":"Farrukh Shehzad","rightHandedBat":true,"dateOfBirth":"1984/10/12","nationality":"Pakistani"}}

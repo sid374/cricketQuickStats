@@ -1,0 +1,1 @@
+{"player":{"id":1807,"fullName":"Moaaz Qazi","rightHandedBat":true,"dateOfBirth":"1995/10/15","nationality":"Emirati"}}

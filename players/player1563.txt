@@ -1,0 +1,1 @@
+{"player":{"id":1563,"fullName":"Shreyas Iyer","rightHandedBat":true,"dateOfBirth":"1994/12/06","nationality":"Indian"}}

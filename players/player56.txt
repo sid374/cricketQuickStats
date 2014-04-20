@@ -1,0 +1,1 @@
+{"player":{"id":56,"fullName":"Robin Bist","dateOfBirth":"1987/11/02","nationality":"Indian"}}

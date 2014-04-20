@@ -1,0 +1,1 @@
+{"player":{"id":1793,"fullName":"Fazal Niazai","rightHandedBat":true,"dateOfBirth":"1990/02/01","nationality":"Afghan"}}

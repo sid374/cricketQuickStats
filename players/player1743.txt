@@ -1,0 +1,1 @@
+{"player":{"id":1743,"fullName":"Karanveer Singh","rightHandedBat":true,"dateOfBirth":"1987/11/08","nationality":"Indian"}}

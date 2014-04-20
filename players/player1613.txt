@@ -1,0 +1,1 @@
+{"player":{"id":1613,"fullName":"Josh Finnie","rightHandedBat":true,"dateOfBirth":"1996/12/18","nationality":"New Zealander"}}
